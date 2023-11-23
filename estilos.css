@@ -1,0 +1,107 @@
+nav .container-md{
+    border-bottom: solid 2px #a47cc8;
+}
+nav{
+    background-color: #9275ac94;
+    transition: background-color 1s;
+}
+nav:hover{
+    background-color:rgba(147, 172, 153, 0.588) ;  
+}
+
+.menu{
+    font-weight: 600;
+    transition: color  0.5s;
+    color: rgb(247, 247, 232);
+}
+.menu:hover{
+    color:  #9c36f5;
+}
+
+#yoga{
+    background-color: rgb(200, 236, 236);
+}
+
+#clases{
+
+    background-image: url(img/fondo4.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#online{
+  
+    background-image: url(img/fondo5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.btn{
+    background-color: #a47cc8;
+    border: #a47cc8;
+}
+
+.btn:hover{
+    background-color: rgb(184, 153, 181);
+}
+
+.boton2{
+    background-color: rgb(96, 203, 167);
+}
+
+.boton2:hover{
+    background-color: rgb(151, 186, 174);
+}
+
+#camino{
+     background-color: #d7c3e9;
+}
+
+#programas{
+    background-image: url(img/fondo2.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+
+#video{
+    background-color: rgb(179, 216, 231);
+}
+
+.card:hover{
+    background-color:rgba(235, 204, 237, 0.588)
+}
+
+.modal-content{
+    color: #a47cc8;
+}
+
+#productos{
+    background-color: rgb(236, 241, 222);
+}
+
+#enviar{
+    border-radius: 50px;
+    color: white;
+}
+#enviar:hover{
+    background-color: rgba(147, 172, 153, 0.588) ;
+}
+#contacto{
+    background-color:  rgb(228, 207, 228);
+}
+
+footer{
+    background-color: #ac92c4;
+}
+
+footer a{
+    color: white;
+}
+
+footer a:hover {
+    color: #b8eadb;
+}
